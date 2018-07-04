@@ -7,7 +7,9 @@ import android.util.Log;
  */
 
 public class JetPacked {
-    JetPacked(){}
+    public JetPacked(){
+
+    }
     void ZoomOff(int zoom){
         Log.i("Zooming","zoomed by"+zoom);
     }
