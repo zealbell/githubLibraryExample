@@ -11,4 +11,7 @@ public class JetPacked {
     void ZoomOff(int zoom){
         Log.i("Zooming","zoomed by"+zoom);
     }
+    void ZoomIn(int zoom){
+        Log.i("Zooming","zoomed in by"+zoom);
+    }
 }
